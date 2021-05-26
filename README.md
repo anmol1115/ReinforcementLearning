@@ -1,6 +1,6 @@
 # ReinforcementLearning
 
-Write your own environments for *Reinforcement Learning*,
+Write your own environments for *Reinforcement Learning*  
 ![Snake Image](./Images/Snake.png)
 
 ---
