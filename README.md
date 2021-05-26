@@ -1,7 +1,7 @@
 # ReinforcementLearning
 
 Write your own environments for *Reinforcement Learning*,
-![Snake Image](C:\Users\Anmol\Pictures\Screenshots\Snake.png "Snake")
+![Snake Image](./Images/Snake.png)
 
 ---
 Contents of this Repo
